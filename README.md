@@ -16,7 +16,7 @@ Topics covered:
 * Tailwind CSS
 * Deployment
 
-##🌿 Job-Board: Projects and practice tasks built while studying Laravel 12 fundamentals and advanced concepts.
+## 🌿 Job-Board: Projects and practice tasks built while studying Laravel 12 fundamentals and advanced concepts.
 Topics covered:
 * MVC Architecture
 * CRUD Operations

@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout :title="$pageTitle">
     <h2>Welcome to my Home Page</h2>
     <ul>
         <li>This is list item one</li>

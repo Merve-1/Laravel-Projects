@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Job Board</title>
 </head>
-<body>
+<body class="font-sans antialiased dark:bg-black dark:text-white/50">
 
    <div>
     <h1>Job Board</h1>
